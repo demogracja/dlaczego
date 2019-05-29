@@ -1,5 +1,5 @@
-# dlaczego
-Powody powstania projektu
+# Dlaczego?
+Powody powstania projektu [demogracja.pl](http://www.demogracja.pl/)
 
 Czy i Ty uczestniku gry w **demokrację** zadajesz sobie pytanie dlaczego Twoja drużyna nie otrzymała takiego wyniku jakiego oczekiwałeś ?
 
