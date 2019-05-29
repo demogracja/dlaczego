@@ -27,7 +27,8 @@ aby jak najwięcej osób oddających głos mogło skorzystać z tego programu ko
 Aby nie było możliwe manipulowanie należy odpowiednio zabezpieczyć od strony technicznej nie tylko program ale także serwer.
 Jest na to czas, kilka miesięcy
 Pierwszy raz można wypróbować ten projekt podczas najbliższych wyborów w PL* 
-*skrót od Polska, Polin
+
+*PL, skrót od Polska, Polin
 
 ## Plan działania
 
