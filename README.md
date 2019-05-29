@@ -1,0 +1,2 @@
+# dlaczego
+Powody powstania projektu
