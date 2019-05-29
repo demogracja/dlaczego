@@ -40,6 +40,13 @@ Ze swej strony jako autor tej krótkiej notki będę w wolnej chwili pisał kod 
 
 Zapraszam do dołączenia do projektu i zgłaszania wszelkich uwag.
 
+## Finansowanie
+
+z kilku ważnych powodów nie można dopuścić do finansowania ani projektu ani autorów projektu
+
+To, że projekt jest otwarty, darmowy i tworzymy go za darmo jest bardzo istotne dla transparentności.
+
+Jedna rzecz jaka mogłaby być finansowana ale tylko i wyłącznie przez jakąś większą grupę ludzi, np poprzez zbiórki publiczne, to serwer oraz usługi potrzebne do utrzymania infrastruktury i jej zabezpieczenia.
 
 
 
