@@ -5,8 +5,8 @@ Czy i Ty uczestniku gry w **demokrację** zadajesz sobie pytanie dlaczego Twoja 
 
 Słyszałeś już, że: ["Nieważne, kto głosuje, ważne, kto liczy głosy"](https://pl.wikiquote.org/wiki/J%C3%B3zef_Stalin)?
 
-Sami policzmy głosy, zróbmy to razem!
-Pierwszy raz w historii Polski!
++ Sami policzmy głosy, zróbmy to razem!
++ Pierwszy raz w historii Polski!
 
 ## Gra w demokrację, czyli demoGracja.pl
 
