@@ -8,14 +8,12 @@ Słyszałeś już, że: ["Nieważne, kto głosuje, ważne, kto liczy głosy"](ht
 + Sami policzmy głosy, zróbmy to razem!
 + Pierwszy raz w historii Polski!
 
-## Gra w demokrację, czyli demoGracja.pl
-
-Projekt ma na celu możliwość weryfikowania głosów,
-dotychczas jest to możliwe indywidualnie lub poprzez szacowanie na podstawie osób wychodzących z miejsca głosowania na podstawie badań typu Exit Pool
-
-
 Korzystając z otaczających nas technologii można za pomocą odpowiedniego programu komputerowego udostępnić każdemu kto weźmie udział w takim badaniu Exit Pool online **Aktualne dane o wynikach głosowania**
 
+## demoGRAcja, czyli Gra w demokrację
+
+Projekt oprogramowania ma na celu możliwość weryfikowania oddanych głosów.
+Dotychczas jest to możliwe indywidualnie lub poprzez szacowanie na podstawie osób wychodzących z miejsca głosowania na podstawie badań typu Exit Pool
 
 ## Aplikacja
 
