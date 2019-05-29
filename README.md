@@ -3,6 +3,10 @@ Powody powstania projektu [demogracja.pl](http://www.demogracja.pl/) [domena w t
 
 Czy i Ty uczestniku gry w **demokrację** zadajesz sobie pytanie dlaczego Twoja drużyna nie otrzymała takiego wyniku jakiego oczekiwałeś ?
 
+Słyszałeś już, że: ["Nieważne, kto głosuje, ważne, kto liczy głosy"](https://pl.wikiquote.org/wiki/J%C3%B3zef_Stalin)?
+
+Sami policzmy głosy, zróbmy to razem!
+Pierwszy raz w historii Polski!
 
 ## Gra w demokrację, czyli demoGracja.pl
 
