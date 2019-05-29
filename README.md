@@ -10,11 +10,8 @@ Projekt ma na celu możliwość weryfikowania głosów,
 dotychczas jest to możliwe indywidualnie lub poprzez szacowanie na podstawie osób wychodzących z miejsca głosowania na podstawie badań typu Exit Pool
 
 
-Korzystając z otaczających nas technologii można za pomocą odpowiedniego programu komputerowego udostępnić każdemu kto weźmie udział w takim badaniu Exit Pool online 
+Korzystając z otaczających nas technologii można za pomocą odpowiedniego programu komputerowego udostępnić każdemu kto weźmie udział w takim badaniu Exit Pool online **Aktualne dane o wynikach głosowania**
 
-Aktualne dane o wynikach głosowania.
-
-Aby nie było możliwe przekłamanie należy odpowiednio zabezpieczyć od strony technicznej nie tylko program ale także serwer.
 
 ## Aplikacja
 
@@ -24,5 +21,23 @@ aby jak najwięcej osób oddających głos mogło skorzystać z tego programu ko
 + Windows
 + online
 
- 
+
+## Kiedy start ?
+
+Aby nie było możliwe manipulowanie należy odpowiednio zabezpieczyć od strony technicznej nie tylko program ale także serwer.
+Jest na to czas, kilka miesięcy
+Pierwszy raz można wypróbować ten projekt podczas najbliższych wyborów w PL* 
+*skrót od Polska, Polin
+
+## Plan działania
+
+Do projektu może dołączyć każdy, nawet nieprogramista, bo każdy program potrzebuje odpowiedniej specyfikacji, aby działał wedle oczekiwań, następnie trzeba stworzyć kod testowy i kod docelowy realizujący zadania.
+
+Ze swej strony jako autor tej krótkiej notki będę w wolnej chwili pisał kod w python-ie, gdyż jest to bardzo prosty i klarowny język, pozwalający na szybki start w świat programowania nawet nieprogramistom.
+
+
+Zapraszam do dołączenia do projektu i zgłaszania wszelkich uwag.
+
+
+
 
