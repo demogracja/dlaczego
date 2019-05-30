@@ -15,6 +15,19 @@ Korzystając z otaczających nas technologii można za pomocą odpowiedniego pro
 Projekt oprogramowania ma na celu możliwość weryfikowania oddanych głosów.
 Dotychczas jest to możliwe indywidualnie lub poprzez szacowanie na podstawie osób wychodzących z miejsca głosowania na podstawie badań typu Exit Pool
 
+## Korzyści
+Korzyści są dla wyborców i kandydatów, zwłaszcza przy niskiej ilości głosów w małych okręgach, gdyż wówczas łatwo sprawdzić czy kilka głosów zostało oddanych czy nie.
+
+### dla Wyborców
++ możliwość weryfikacji i oddania sprawy do sądu
+
+### dla Kandydatów
++ możliwość weryfikacji
+
+
+
+
+
 ## Aplikacja
 
 aby jak najwięcej osób oddających głos mogło skorzystać z tego programu konieczne będzie udostępnienie go na kilka platform.
