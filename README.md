@@ -19,13 +19,11 @@ Dotychczas jest to możliwe indywidualnie lub poprzez szacowanie na podstawie os
 Korzyści są dla wyborców i kandydatów, zwłaszcza przy niskiej ilości głosów w małych okręgach, gdyż wówczas łatwo sprawdzić czy kilka głosów zostało oddanych czy nie.
 
 ### dla Wyborców
-+ możliwość weryfikacji i oddania sprawy do sądu
++ możliwość weryfikacji i oddania sprawy do sądu*
+* potrzebujemy ekspertów, którzy by mogli całą drogę opisać
 
 ### dla Kandydatów
 + możliwość weryfikacji
-
-
-
 
 
 ## Aplikacja
@@ -35,6 +33,25 @@ aby jak najwięcej osób oddających głos mogło skorzystać z tego programu ko
 + IOS
 + Windows
 + online
+
+### Zasada działania
+
+3 poziomy weryfikacji:
++ wybranie okręgu wyborczego w aplikacji oraz kandydata na którego został oddany głos
++ po oddaniu głosu należy wykonać fotografię karty do głosowania
++ jak wyżej + dodanie obok naziska dokumentu tożsamości
++ jak wyżej + zakrycie danych wrażliwych na dokumencie
+
+Ograniczenia
++ Ilość oddanych głosów na jednym urządzeniu/aplikacji/nr telefonu powinna być do 3 kart do głosowania
+ale wówczas potrzebna jest weyfikacja na podstawie dokumentu
+
++ W przypadku oddania jednego głosu z jednego numeru można zrezygnować z dokumentu, ale trzeba przemyśleć sposób weryfikacji
++ można też odstąpić od weryfikacji bezpośredniej, pozostając przy numerze telefonu i w przypadku nieprawidłowości zgłosić się
+indywidualnie do odpowiedniego organu, gdzie sprawa będzie rozstrzygana.
+
+
+
 
 
 ## Kiedy start ?
