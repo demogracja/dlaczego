@@ -64,7 +64,6 @@ indywidualnie do odpowiedniego organu, gdzie sprawa będzie rozstrzygana.
 
 
 
-
 ## Kiedy start ?
 
 Aby nie było możliwe manipulowanie należy odpowiednio zabezpieczyć od strony technicznej nie tylko program ale także serwer.
@@ -83,11 +82,12 @@ Zapraszam do dołączenia do projektu i zgłaszania wszelkich uwag.
 
 ## Finansowanie
 
-z kilku ważnych powodów nie można dopuścić do finansowania ani projektu ani autorów projektu
 
-To, że projekt jest otwarty, darmowy i tworzymy go za darmo jest bardzo istotne dla transparentności.
+Projekt jest inicjatywą oddolną, jest otwarty i darmowy, dlatego bardzo istotne dla jego transparentności, by nie był on finansowany ani autorzy projektu.
 
-Jedna rzecz jaka mogłaby być finansowana ale tylko i wyłącznie przez jakąś większą grupę ludzi, np poprzez zbiórki publiczne, to serwer oraz usługi potrzebne do utrzymania infrastruktury i jej zabezpieczenia.
+Ludzie wspierający projekt: programiści oraz prawnicy to osoby zarabiające wystarczająco, by część swojego prywatnego czasu poświęcić na realizację projektu, który w zasadzie wymaga tylko zaangażowania na kilka tygodni.
+
+Jedna rzecz jaka mogłaby być finansowana to serwer oraz usługi potrzebne do utrzymania infrastruktury i jej zabezpieczenia.
 
 
 
