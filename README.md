@@ -108,7 +108,7 @@ Przed wyborami na jesieni 2019 będzie przeprowadzany test działania aplikacji 
 
 + [tutaj można zgłosić problemy, uwagi](https://github.com/demogracja/problemy)
 
-+ [Pytania i Odpowiedzi](FAQ.md)
++ [pytania i odpowiedzi](FAQ.md)
 
 
 #### Sekcje dla programistów:
@@ -131,5 +131,6 @@ Przed wyborami na jesieni 2019 będzie przeprowadzany test działania aplikacji 
 + [lex](https://github.com/demogracja/lex) 
 
 #### Zespół
+
 + [autorzy](https://github.com/demogracja/autorzy) 
 
