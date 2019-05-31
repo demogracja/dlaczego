@@ -52,9 +52,9 @@ Oprogramowanie wymaga analizy i przygotowania specyfikacji, zapraszamy do wspó�
 + jak wyżej + dodanie obok naziska dokumentu tożsamości
 + jak wyżej + zakrycie danych wrażliwych na dokumencie
 
-Ograniczenia
+#### Ograniczenia
 + Ilość oddanych głosów na jednym urządzeniu/aplikacji/nr telefonu powinna być do 3 kart do głosowania
-ale wówczas potrzebna jest weyfikacja na podstawie dokumentu
+ale wówczas potrzebna jest weryfikacja na podstawie dokumentu
 
 + W przypadku oddania jednego głosu z jednego numeru można zrezygnować z dokumentu, ale trzeba przemyśleć sposób weryfikacji
 + można też odstąpić od weryfikacji bezpośredniej, pozostając przy numerze telefonu i w przypadku nieprawidłowości zgłosić się
