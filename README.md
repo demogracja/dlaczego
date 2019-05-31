@@ -1,5 +1,5 @@
 # Dlaczego?
-Powody powstania projektu [demogracja.pl](http://www.demogracja.pl/) [domena w trakcie rejestracji]
+Powody powstania projektu [demogracja.pl](https://www.demogracja.pl/)
 
 Czy i Ty uczestniku gry w **demokrację** zadajesz sobie pytanie dlaczego Twoja drużyna nie otrzymała takiego wyniku jakiego oczekiwałeś ?
 
