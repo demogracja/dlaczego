@@ -10,6 +10,8 @@ Słyszałeś już, że: ["Nieważne, kto głosuje, ważne, kto liczy głosy"](ht
 
 Korzystając z otaczających nas technologii można za pomocą odpowiedniego programu komputerowego udostępnić każdemu kto weźmie udział w takim badaniu Exit Pool online **Aktualne dane o wynikach głosowania**
 
+Docelowo dobrze by było, gdyby projekt nie był ograniczony do stworzenia oprogramowania, ale również do informowania i pomocy poszkodowanym w wyborach, dlatego zachęcamy do kontaktu już istniejące instytucje, które się tym zajmują.
+
 ## demoGRAcja, czyli Gra w demokrację
 
 Projekt oprogramowania ma na celu możliwość weryfikowania oddanych głosów.
@@ -90,4 +92,32 @@ Jedna rzecz jaka mogłaby być finansowana to serwer oraz usługi potrzebne do u
 
 Sponsorowane jest tylko to co generuje koszty na czas przeprowadzenia wyborów, czyli infrastruktura oraz dodatkowe usługi, jeśli będą świadczone darmowo i nikt nie wyrazi takiej woli.
 Obecnie kosztem są domeny i serwer testowy, pokryte bezpośrednio przez firmę jednego z autorów.
+
+
+## i Ty możesz pomóc!
+
+Zapoznaj się drogi Wyborco z poniższymi sekcjami projektu i dołącz!
+Być może coś jest źle sforumułowane lub znasz kogoś kto może pomóc
+Przed wyborami na jesieni 2019 będzie potrzeba przetestowania działania aplikacji i serwerów, dlatego będzie potrzeba zaangażowania większej ilości osób w celu przeprowadzenia symulacji wyborów i przetestowania całej platformy.
+
++ Sekcje dla każdego, kto podchodzi krytycznie do wyborów w demokracji, tutaj można zgłosić problemy:
+
+https://github.com/demogracja/problemy
+
++ Sekcje dla programistów:
+https://github.com/demogracja/webapp
+
+https://github.com/demogracja/webapi
+
+https://github.com/demogracja/webserver
+
+https://github.com/demogracja/serwer
+
+https://github.com/demogracja/blockchain
+
+https://github.com/demogracja/kryptografia
+
+
++ Sekcja dla prawników i ekspertów od prawa wyborczego w Polsce
+https://github.com/demogracja/lex
 
