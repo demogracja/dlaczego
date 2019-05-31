@@ -104,9 +104,9 @@ Przed wyborami na jesieni 2019 będzie przeprowadzany test działania aplikacji 
 
 ### Informacje
 
-#### Sekcje dla każdego, kto podchodzi krytycznie do wyborów w demokracji, tutaj można zgłosić problemy:
+#### Sekcje dla każdego, kto podchodzi krytycznie do wyborów w demokracji:
 
-+ [problemy](https://github.com/demogracja/problemy)
++ [tutaj można zgłosić problemy, uwagi](https://github.com/demogracja/problemy)
 
 + [Pytania i Odpowiedzi](FAQ.md)
 
