@@ -94,11 +94,15 @@ Sponsorowane jest tylko to co generuje koszty na czas przeprowadzenia wyborów, 
 Obecnie kosztem są domeny i serwer testowy, pokryte bezpośrednio przez firmę jednego z autorów.
 
 
-## i Ty możesz pomóc!
+## i Ty Wyborco możesz pomóc!
 
-Zapoznaj się drogi Wyborco z poniższymi sekcjami projektu i dołącz!
-Być może coś jest źle sforumułowane lub znasz kogoś kto może pomóc
-Przed wyborami na jesieni 2019 będzie potrzeba przetestowania działania aplikacji i serwerów, dlatego będzie potrzeba zaangażowania większej ilości osób w celu przeprowadzenia symulacji wyborów i przetestowania całej platformy.
+Zapoznaj się drogi Wyborco z poniższymi sekcjami projektu, potrzebne są również nie-eksperci!
+
+Być może coś jest źle sforumułowane lub znasz kogoś kto może pomóc.
+
+Przed wyborami na jesieni 2019 będzie przeprowadzany test działania aplikacji i serwerów, dlatego będzie potrzebna większa ilośc osób w celu przeprowadzenia symulacji wyborów i przetestowania całej platformy.
+
+### Informacje
 
 + Sekcje dla każdego, kto podchodzi krytycznie do wyborów w demokracji, tutaj można zgłosić problemy:
 
