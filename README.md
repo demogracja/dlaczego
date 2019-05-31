@@ -105,6 +105,7 @@ Przed wyborami na jesieni 2019 będzie potrzeba przetestowania działania aplika
 https://github.com/demogracja/problemy
 
 + Sekcje dla programistów:
+
 https://github.com/demogracja/webapp
 
 https://github.com/demogracja/webapi
@@ -119,5 +120,6 @@ https://github.com/demogracja/kryptografia
 
 
 + Sekcja dla prawników i ekspertów od prawa wyborczego w Polsce
+
 https://github.com/demogracja/lex
 
