@@ -88,5 +88,6 @@ Ludzie wspierający projekt: programiści oraz prawnicy to osoby zarabiające wy
 
 Jedna rzecz jaka mogłaby być finansowana to serwer oraz usługi potrzebne do utrzymania infrastruktury i jej zabezpieczenia.
 
-
+Sponsorowane jest tylko to co generuje koszty na czas przeprowadzenia wyborów, czyli infrastruktura oraz dodatkowe usługi, jeśli będą świadczone darmowo i nikt nie wyrazi takiej woli.
+Obecnie kosztem są domeny i serwer testowy, pokryte bezpośrednio przez firmę jednego z autorów.
 
