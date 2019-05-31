@@ -19,8 +19,7 @@ Dotychczas jest to możliwe indywidualnie lub poprzez szacowanie na podstawie os
 Korzyści są dla wyborców i kandydatów, zwłaszcza przy niskiej ilości głosów w małych okręgach, gdyż wówczas łatwo sprawdzić czy kilka głosów zostało oddanych czy nie.
 
 ### dla Wyborców
-+ możliwość weryfikacji i oddania sprawy do sądu*
-* potrzebujemy ekspertów, którzy by mogli całą drogę opisać
++ możliwość weryfikacji i oddania sprawy do sądu* (potrzebujemy ekspertów, prawników, którzy by mogli całą drogę opisać)
 
 ### dla Kandydatów
 + możliwość weryfikacji
