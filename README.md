@@ -106,24 +106,24 @@ Przed wyborami na jesieni 2019 będzie przeprowadzany test działania aplikacji 
 
 + Sekcje dla każdego, kto podchodzi krytycznie do wyborów w demokracji, tutaj można zgłosić problemy:
 
-https://github.com/demogracja/problemy
+[https://github.com/demogracja/problemy](https://github.com/demogracja/problemy)
 
 + Sekcje dla programistów:
 
-https://github.com/demogracja/webapp
+[https://github.com/demogracja/webapp](https://github.com/demogracja/webapp)
 
-https://github.com/demogracja/webapi
+[https://github.com/demogracja/webapi](https://github.com/demogracja/webapi)
 
-https://github.com/demogracja/webserver
+[https://github.com/demogracja/webserver](https://github.com/demogracja/webserver)
 
-https://github.com/demogracja/serwer
+[https://github.com/demogracja/serwer](https://github.com/demogracja/serwer)
 
-https://github.com/demogracja/blockchain
+[https://github.com/demogracja/blockchain](https://github.com/demogracja/blockchain)
 
-https://github.com/demogracja/kryptografia
+[https://github.com/demogracja/kryptografia](https://github.com/demogracja/kryptografia)
 
 
 + Sekcja dla prawników i ekspertów od prawa wyborczego w Polsce
 
-https://github.com/demogracja/lex
+[https://github.com/demogracja/lex](https://github.com/demogracja/lex) 
 
