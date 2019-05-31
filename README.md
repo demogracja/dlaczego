@@ -34,6 +34,17 @@ aby jak najwięcej osób oddających głos mogło skorzystać z tego programu ko
 + Windows
 + online
 
+### W chwili obecnej są wyróżnione 3 oddzielne aplikacje
++ Aplikacja uzytkownika na przeglądarkę - [WebApp](https://github.com/demogracja/webapp)
++ Aplikacja na serwer do komunikacji z uzytkownikiem [WebApi](https://github.com/demogracja/webapi)
++ Aplikacja na serwer do do zarządzania [WebServer](https://github.com/demogracja/webserver)
+
+Oprogramowanie wymaga analizy i przygotowania specyfikacji, zapraszamy do współpracy programistów z doświadczeniem w technologiach: 
++ NodeJS
++ Python
++ framework VUE
++ Administracja serwerami, chmury, DEVOPS
+ 
 ### Zasada działania
 
 3 poziomy weryfikacji:
