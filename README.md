@@ -18,7 +18,10 @@ Projekt oprogramowania ma na celu możliwość weryfikowania oddanych głosów.
 Dotychczas jest to możliwe indywidualnie lub poprzez szacowanie na podstawie osób wychodzących z miejsca głosowania na podstawie badań typu Exit Pool
 
 ## Korzyści
-Korzyści są dla wyborców i kandydatów, zwłaszcza przy niskiej ilości głosów w małych okręgach, gdyż wówczas łatwo sprawdzić czy kilka głosów zostało oddanych czy nie.
+To co sprawia, że małe organizacje lub kandydaci z małym poparciem nie mogą wygrać wyborów, to wysokie progi wyborcze.
+Metoda sprawdzania w tym projekcie pozwoli na wychwycenie pojedynczych "błędów", im mniej głosów tym łatwiej.
+Korzyści dla wyborców i kandydatów, gdyż przy niskiej ilości głosów w małych okręgach, łatwo zauważyć brak jednego lub kilku głosów, wystarczy że na konkretnego kandydata zagłosuje mała ilość osób.
+Być może są inne metody, wówczas można zwiększyć skuteczność oprogramowania, czekamy na propozycje!
 
 ### dla Wyborców
 + możliwość weryfikacji i oddania sprawy do sądu* (potrzebujemy ekspertów, prawników, którzy by mogli całą drogę opisać)
